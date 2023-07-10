@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+ $basetexture prop_stol_cb_physics\brown
+ $surfaceprop wood
+ 
+}

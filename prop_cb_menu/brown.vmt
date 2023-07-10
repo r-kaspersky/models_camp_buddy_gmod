@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+ $basetexture prop_cb_menu\brown
+ $surfaceprop wood
+ 
+}
